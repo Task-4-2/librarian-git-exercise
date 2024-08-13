@@ -17,7 +17,7 @@ df = pd.DataFrame({
     'transitions': random_numbers
 })
 
-# Ensure the 'results' directory exists
+# Ensure the `results` directory exists
 os.makedirs('01_raw_data', exist_ok=True)
 
 # Save the DataFrame to a CSV file

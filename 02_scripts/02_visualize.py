@@ -23,7 +23,6 @@ plt.ylabel('Transitions', fontsize=12)
 plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
 plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=1))
 plt.xticks(rotation=90, ha='right')
-
 plt.tight_layout()
 
 # Save the plot
