@@ -21,6 +21,6 @@ df = pd.DataFrame({
 os.makedirs('01_raw_data', exist_ok=True)
 
 # Save the DataFrame to a CSV file
-df.to_csv('01_raw_data/20240813_3_state_transition_projection_algo3.csv', index=False)
+df.to_csv('01_raw_data/20240813_4_state_transition_projection_algo4.csv', index=False)
 
 print('Run finished.')
