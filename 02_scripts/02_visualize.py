@@ -17,7 +17,7 @@ plt.figure(figsize=(12, 6))
 sns.lineplot(x='date', y='transitions', data=df, marker='o')
 
 # Customize the plot
-plt.title('Transitions Over Time', fontsize=16)
+plt.title('Transitions Over Time', fontsize=14)
 plt.xlabel('Date', fontsize=12)
 plt.ylabel('Transitions', fontsize=12)
 plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
