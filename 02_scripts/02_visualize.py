@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Read the CSV file
-df = pd.read_csv('01_raw_data/20240813_3_state_transition_projection_algo3.csv')
+df = pd.read_csv('01_raw_data/20240813_4_state_transition_projection_algo4.csv')
 
 # Convert the 'date' column to datetime
 df['date'] = pd.to_datetime(df['date'])
@@ -27,5 +27,5 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 
 # Save the plot
-plt.savefig('03_graphics/20240813_3_state_transition_projection_algo3.png')
+plt.savefig('03_graphics/20240813_4_state_transition_projection_algo4.png')
 print("File successfully saved.")
