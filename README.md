@@ -2,7 +2,7 @@
 
 # The Technicalities of Reproducibility - Git Exercise
 
-This is a Git exercise, part of the "The technicalities of reproducibility" learning unit, of the learning path []"Technical skills are the bridge to reproducible research. An introduction for data librarians."](https://github.com/Task-4-2/Technical-Skills-as-bridge-to-reproducible-research). The materials have been developed within work package 4.2 of the [Skills4EOSC project](https://www.skills4eosc.eu/). More detailed information about the learning path is available in the [corresponding Git book](https://task-4-2.github.io/Technical-Skills-as-bridge-to-reproducible-research/latest/).
+This is a Git exercise, part of the "The technicalities of reproducibility" learning unit, of the learning path ["Technical skills are the bridge to reproducible research. An introduction for data librarians."](https://github.com/Task-4-2/Technical-Skills-as-bridge-to-reproducible-research). The materials have been developed within work package 4.2 of the [Skills4EOSC project](https://www.skills4eosc.eu/). More detailed information about the learning path is available in the [corresponding Git book](https://task-4-2.github.io/Technical-Skills-as-bridge-to-reproducible-research/latest/).
 
 ## Exercise Description
 
